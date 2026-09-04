@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `30m` sample updated in sync
 
-> **Sample on GitHub** · `USOIL_30m.csv` (1,853 rows, `2026-07-07` -> `2026-09-02`, 138.09 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/usoil)** — **205,497** `30m` rows (full `1m`: 6,029,418), **11 timeframes**, `2008-09-10` -> `2026-09-02`.
+> **Sample on GitHub** · `USOIL_30m.csv` (1,848 rows, `2026-07-07` -> `2026-09-02`, 137.78 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/usoil)** — **205,497** `30m` rows (full `1m`: 5,981,180), **11 timeframes**, `2008-09-10` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,8 +45,8 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | WTI Crude Oil · Commodities | WTI Crude Oil · Commodities |
 | Timeframes | `30m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 30m rows | 1,853 | **205,497** |
-| Size | 138.09 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/usoil) |
+| 30m rows | 1,848 | **205,497** |
+| Size | 137.78 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/usoil) |
 | Period | `2026-07-07` -> `2026-09-02` | `2008-09-10` -> `2026-09-02` |
 | File | `USOIL_30m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/usoil) |
 | Coverage report | — | [USOIL coverage](https://getdata.finance/coverage/usoil) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`USOIL_30m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-07T19:00:00+00:00 | 71.427 | 72.489 | 71.398 | 72.199 | 8140 |
-| 2026-07-07T19:30:00+00:00 | 72.199 | 72.298 | 71.743 | 71.872 | 3804 |
-| 2026-07-07T20:00:00+00:00 | 71.872 | 72.098 | 71.863 | 72.058 | 1316 |
-| 2026-07-07T20:30:00+00:00 | 72.058 | 72.294 | 72.052 | 72.194 | 1079 |
-| 2026-07-07T22:00:00+00:00 | 72.194 | 72.408 | 72.042 | 72.362 | 943.72822 |
+| 2026-07-07T22:30:00+00:00 | 72.362 | 72.439 | 72.298 | 72.413 | 329 |
+| 2026-07-07T23:00:00+00:00 | 72.413 | 72.439 | 72.228 | 72.394 | 383 |
+| 2026-07-07T23:30:00+00:00 | 72.394 | 72.449 | 72.207 | 72.369 | 444 |
+| 2026-07-08T00:00:00+00:00 | 72.369 | 72.659 | 72.308 | 72.504 | 1452 |
+| 2026-07-08T00:30:00+00:00 | 72.504 | 72.509 | 71.913 | 71.938 | 1495 |
 
 **Last rows**
 
